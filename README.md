@@ -17,3 +17,7 @@ The entire Frontend was created using Material-UI components.
 In the project directory, you'll need to install all dependencies by running: **`npm i`**</br>
 When it's finished run: **`npm run dev`**</br>
 This will automatically run the Client and Server together.
+
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/575503854/cd2b0869-99ef-403f-ab83-e22ea3407a35" width="550" title="Preview Image">
+</p>
