@@ -19,5 +19,5 @@ When it's finished run: **`npm run dev`**</br>
 This will automatically run the Client and Server together.
 
 
-<img src="https://repository-images.githubusercontent.com/575503854/cd2b0869-99ef-403f-ab83-e22ea3407a35" width="550" title="Preview Image">
+<img src="https://repository-images.githubusercontent.com/575503854/47fb73d6-6e53-47ab-90ee-353552d0f091" width="550" title="Preview Image">
 
